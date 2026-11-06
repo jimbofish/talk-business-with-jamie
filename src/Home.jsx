@@ -1,5 +1,5 @@
 import { Link } from 'react-router'
-import heroPhoto from './assets/hero-pic.png'
+import heroPhoto from './assets/Hero-pic.png'
 import profilePhoto from './assets/my-profile.png'
 import './App.css'
 import { BadgeCheck, CalendarDays, Laptop } from 'lucide-react'
