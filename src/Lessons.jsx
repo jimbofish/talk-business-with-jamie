@@ -145,7 +145,7 @@ useEffect(() => {
 
 <p className="price">50-minute lesson</p>
 
-<p className="price-amount">¥3,490</p>
+<p className="price-amount">From ¥2,490</p>
 
 <p>
 
@@ -192,7 +192,7 @@ Online one-to-one lessons tailored to your goals and workplace needs.
 
 <p className="form-note"> I'll get back to you within 1–2 business days. </p>
     <button type="submit" className="button">
-      Book a lesson
+      Free consultation
     </button>
   </form>
 

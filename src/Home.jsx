@@ -21,7 +21,7 @@ function Home() {
     communicate more clearly and confidently in the workplace.
   </p>
 
- <a className="book-button" href="/lessons#booking">Book a lesson</a>
+ <a className="book-button" href="/lessons#booking">Free consultation</a>
   </div>
   <img src={heroPhoto} className="hero-photo" alt="Jamie in an office" />
 </section>
@@ -128,7 +128,7 @@ function Home() {
       Let's discuss how the lessons can help you.
     </p>
 
-    <a className="book-button" href="/lessons#booking">Book a lesson</a>
+    <a className="book-button" href="/lessons#booking">Free consultation</a>
   </div>
 </section>
       </main>
