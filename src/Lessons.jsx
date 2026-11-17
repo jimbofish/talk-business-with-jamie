@@ -85,6 +85,14 @@ useEffect(() => {
         </div>
       </section>
 
+<a
+  href="/talk_business_with_jamie_sample_lesson_opinions(3).pdf"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  View a Sample Lesson
+</a>
+
       <section className="process-section">
         <p className="eyebrow">HOW IT WORKS</p>
 
@@ -143,9 +151,11 @@ useEffect(() => {
 
 <h3>Pricing</h3>
 
-<p className="price">50-minute lesson</p>
+<p className="price">30-minute to 90 minute lessons</p>
 
-<p className="price-amount">From ¥2,490</p>
+<p className="price-amount">From ¥2,000 per hour</p>
+
+<p className="price-amount">Flexible scheduling and intensive classes avaialable.</p>
 
 <p>
 
@@ -157,7 +167,7 @@ Online one-to-one lessons tailored to your goals and workplace needs.
 
 <div className="pricing-card" id="booking">
 
-  <h3>Book a lesson</h3>
+  <h3>Book a free 30 minute consultation</h3>
 
   <form
     action="https://formspree.io/f/myezvajd"
