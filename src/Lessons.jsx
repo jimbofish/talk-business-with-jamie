@@ -116,7 +116,7 @@ useEffect(() => {
       </div>
 
       <a
-        href="/talk_business_with_jamie_sample_lesson_opinions(3).pdf"
+        href="/talk_business_with_jamie_sample_lesson_opinions (3).pdf"
         target="_blank"
         rel="noopener noreferrer"
         className="sample-lesson-button"
