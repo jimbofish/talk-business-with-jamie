@@ -1,12 +1,15 @@
-import { useEffect } from 'react'
-import { MessageSquare,
+import {
+  MessageSquare,
   Presentation,
   Mail,
   Handshake,
   MessagesSquare,
   BriefcaseBusiness,
-Target,
-TrendingUp, } from 'lucide-react'
+  Target,
+  TrendingUp,
+  FileText,
+  ArrowUpRight,
+} from 'lucide-react'
 
 function Lessons() {
 useEffect(() => {
