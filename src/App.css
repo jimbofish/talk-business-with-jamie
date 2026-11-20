@@ -632,3 +632,79 @@ margin: 0 auto;
 
 }
 
+.sample-lesson-card {
+  background: #f2f7f6;
+  border: 1px solid #dce9e7;
+  border-radius: 16px;
+  padding: 45px;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.sample-lesson-content {
+  max-width: 650px;
+}
+
+.sample-lesson-content h2 {
+  color: #0a4547;
+  margin-bottom: 15px;
+}
+
+.sample-lesson-content > p:not(.eyebrow) {
+  color: #536568;
+  line-height: 1.7;
+  margin-bottom: 25px;
+}
+
+.sample-lesson-info {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 18px;
+  background: white;
+  border: 1px solid #dce9e7;
+  border-radius: 10px;
+  margin-bottom: 25px;
+}
+
+.sample-pdf-icon {
+  background: #eaf3f2;
+  color: #0f5c5e;
+  padding: 13px;
+  border-radius: 9px;
+  display: flex;
+}
+
+.sample-lesson-info h3 {
+  font-size: 16px;
+  margin: 0 0 5px;
+  color: #0a4547;
+}
+
+.sample-lesson-info span {
+  font-size: 13px;
+  color: #718082;
+}
+
+.sample-lesson-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  background: #0f5c5e;
+  color: white;
+  padding: 14px 23px;
+  border-radius: 7px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: background 0.2s ease;
+}
+
+.sample-lesson-button:hover {
+  background: #0a4547;
+}
+
+@media (max-width: 600px) {
+  .sample-lesson-card {
+    padding: 25px 20px;
+  }
+}

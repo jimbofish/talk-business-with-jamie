@@ -85,13 +85,43 @@ useEffect(() => {
         </div>
       </section>
 
-<a
-  href="/talk_business_with_jamie_sample_lesson_opinions(3).pdf"
-  target="_blank"
-  rel="noopener noreferrer"
->
-  View a Sample Lesson
-</a>
+<section className="sample-lesson-section">
+  <div className="sample-lesson-card">
+
+    <div className="sample-lesson-content">
+      <p className="eyebrow">EXPLORE A SAMPLE LESSON</p>
+
+      <h2>See what a lesson looks like.</h2>
+
+      <p>
+        Our lessons focus on practical English you can use in
+        real workplace situations. Take a look at a sample
+        lesson and discover our approach.
+      </p>
+
+      <div className="sample-lesson-info">
+        <div className="sample-pdf-icon">
+          <FileText />
+        </div>
+
+        <div>
+          <h3>Asking for and Giving Opinions</h3>
+          <span>Business English · Sample lesson PDF</span>
+        </div>
+      </div>
+
+      <a
+        href="/talk_business_with_jamie_sample_lesson_opinions(3).pdf"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="sample-lesson-button"
+      >
+        View Sample Lesson <ArrowUpRight size={18} />
+      </a>
+    </div>
+
+  </div>
+</section>
 
       <section className="process-section">
         <p className="eyebrow">HOW IT WORKS</p>

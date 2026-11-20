@@ -1,4 +1,5 @@
 import { Routes, Route, Link } from 'react-router'
+import { FileText, ArrowUpRight } from 'lucide-react'
 import Home from './Home.jsx'
 import Lessons from './Lessons.jsx'
 import './App.css'
